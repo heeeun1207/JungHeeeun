@@ -39,7 +39,7 @@ const LandingPage = () => {
           <h3>Strawberry bagel</h3>
           <p>🍓🍓🍓🍓</p>
         </div>
-       
+
         <h2>Contact Us</h2>
         <form>
           <input type="text" placeholder="Your Name" />
