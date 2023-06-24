@@ -16,7 +16,7 @@ const LandingPage = () => {
       </header>
       
       <main>
-        <h1>Welcome to Our always spring Bakery "늘봄"</h1>
+        <h2>Welcome to Our always spring Bakery "늘봄"</h2>
         <p>Discover the delicious world of artisan breads</p>
         <button>Explore Now</button>
         
@@ -25,17 +25,17 @@ const LandingPage = () => {
 
         <h2>Our Products</h2>
         <div className="product-card">
-          <img src="/images/figs.jpg" alt="Fig" />
+          <img src="/images/figs.jpg" alt="Fig" style={{ maxWidth: '350px', maxHeight: '300px' }} />
           <h3>Fig cake</h3>
           <p>오픈토스트 무화과 🥰</p>
         </div>
         <div className="product-card">
-          <img src="/images/peanutbutter.jpg" alt="peanut" />
+          <img src="/images/peanutbutter.jpg" alt="peanut" style={{ maxWidth: '350px', maxHeight: '300px' }} />
           <h3>Peanutbutter toast</h3>
           <p>🐈🐈🐈🐈‍</p>
         </div>
         <div className="product-card">
-          <img src="/images/bagel.jpg" alt="Bread" />
+          <img src="/images/bagel.jpg" alt="Bread" style={{ maxWidth: '350px', maxHeight: '300px' }} />
           <h3>Strawberry bagel</h3>
           <p>🍓🍓🍓🍓</p>
         </div>
