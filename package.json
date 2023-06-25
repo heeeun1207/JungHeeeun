@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./dist/server.bundle.js",
     "build": "npx webpack"
+    
   },
   "repository": {
     "type": "git",
@@ -44,4 +45,3 @@
     "react-dom": "^18.2.0"
   }
 }
-
