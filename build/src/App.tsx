@@ -1,8 +1,12 @@
 import React from 'react';
-import Nemo from './components/Nemo';
+import LandingPage from './components/LandingPage';
 
 const App = () => {
-  return <Nemo name="React" />;
+  return (
+    <div>
+      <LandingPage />
+    </div>
+  );
 };
 
 export default App;
