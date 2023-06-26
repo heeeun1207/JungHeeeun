@@ -1,8 +1,11 @@
 import React from 'react';
-import './Nemo.css';
 
-function Nemo() {
-  return <div className="Nemo-container"></div>;
+interface NemoProps {
+  name: string;
 }
+
+const Nemo: React.FC<NemoProps> = (props) => {
+  return <div>안녕하세요, 제 이름은 {props.name}입니다.</div>;
+};
 
 export default Nemo;
