@@ -1,10 +1,15 @@
 import React from 'react';
-
+import UserFirstart from './components/UserFirestart';
+import Video from './components/Video';
 
 function App() {
   return (
     <div>
-  리액트 다시다시다시
+      <UserFirstart />
+      <Video />
+      <div>
+        Hello <b>react</b>
+      </div>
     </div>
   );
 }
