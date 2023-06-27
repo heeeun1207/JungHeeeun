@@ -1,5 +1,5 @@
 import React from 'react';
-import { FiBook, FiFileText, FiGithub } from 'react-icons/fi';
+import { FiBook, FiGithub } from 'react-icons/fi';
 import './LandingPage.css';
 
 const LandingPage = () => {
