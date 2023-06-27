@@ -16,7 +16,7 @@ const LandingPage = () => {
           <FiGithub size={20} className="icon" /> GitHub 링크
         </a>
         <a
-          href="https://www.notion.so/4e6d1c860648422b910c2363b25fde68?pvs=4"
+          href="https://ginger-turn-ce0.notion.site/4e6d1c860648422b910c2363b25fde68?pvs=4"
           target="_blank"
           rel="noopener noreferrer"
           className="link"
