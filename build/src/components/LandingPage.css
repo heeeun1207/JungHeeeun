@@ -1,5 +1,5 @@
 .landing-page {
-  background-color: #f4dcb7;
+  background-color: #dbc5a3;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -14,4 +14,15 @@
   color: white;
   font-size: 32px;
   font-weight: bold;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.icon {
+  vertical-align: middle;
+  margin-right: 5px;
 }
